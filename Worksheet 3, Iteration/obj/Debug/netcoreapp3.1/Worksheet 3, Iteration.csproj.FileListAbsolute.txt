@@ -1,0 +1,14 @@
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\bin\Debug\netcoreapp3.1\Worksheet 3, Iteration.exe
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\bin\Debug\netcoreapp3.1\Worksheet 3, Iteration.deps.json
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\bin\Debug\netcoreapp3.1\Worksheet 3, Iteration.runtimeconfig.json
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\bin\Debug\netcoreapp3.1\Worksheet 3, Iteration.runtimeconfig.dev.json
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\bin\Debug\netcoreapp3.1\Worksheet 3, Iteration.dll
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\bin\Debug\netcoreapp3.1\Worksheet 3, Iteration.pdb
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\obj\Debug\netcoreapp3.1\Worksheet 3, Iteration.csproj.AssemblyReference.cache
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\obj\Debug\netcoreapp3.1\Worksheet 3, Iteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\obj\Debug\netcoreapp3.1\Worksheet 3, Iteration.AssemblyInfoInputs.cache
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\obj\Debug\netcoreapp3.1\Worksheet 3, Iteration.AssemblyInfo.cs
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\obj\Debug\netcoreapp3.1\Worksheet 3, Iteration.csproj.CoreCompileInputs.cache
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\obj\Debug\netcoreapp3.1\Worksheet 3, Iteration.dll
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\obj\Debug\netcoreapp3.1\Worksheet 3, Iteration.pdb
+C:\Users\alang\source\repos\Worksheet 3, Iteration\Worksheet 3, Iteration\obj\Debug\netcoreapp3.1\Worksheet 3, Iteration.genruntimeconfig.cache

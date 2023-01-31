@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Worksheet 3, Iteration/1.0.0": {
+        "runtime": {
+          "Worksheet 3, Iteration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Worksheet 3, Iteration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
